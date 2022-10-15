@@ -1,4 +1,6 @@
-# stylelint-config-ntvr-order
+# DEPRECATED stylelint-config-ntvr-order
+⚠️ This package is deprecated in favour of [@ntvr/stylelint-config/order](https://github.com/ntvr/stylelint-config) config.
+
 
 [![NPM version](http://img.shields.io/npm/v/@ntvr/stylelint-config-ntvr-order.svg)](https://www.npmjs.org/package/@ntvr/stylelint-config-ntvr-order)
 [![Build Status](https://travis-ci.org/ntvr/stylelint-config-ntvr-order.svg?branch=master)](https://travis-ci.org/ntvr/stylelint-config-ntvr-order)
